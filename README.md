@@ -127,14 +127,6 @@ The static website can be published using GitHub Pages.
 * The published Tableau workbooks must be publicly accessible for visitors to view them.
 * The website provides access to the visualizations; the charts and underlying data are controlled by the published Tableau workbooks.
 
-## 🎥 Project Demonstration
-
-Watch the project explanation to understand the implementation and explore the project's features:
-
-**[▶ Watch the Formula 1 Race Intelligence Project Explanation](https://cap.scourtfx.info/s/n2qxzm385qpjgd5)**
-
----
-
 **Formula 1 Race Intelligence Platform** 🏎️
 *An interactive data visualization project powered by Tableau Public.*
 
